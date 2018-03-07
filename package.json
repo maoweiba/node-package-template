@@ -1,0 +1,9 @@
+{
+  "name": "node-package-template",
+  "version": "1.0.0",
+  "description": "A template for node packages",
+  "main": "src/index.js",
+  "repository": "https://github.com/maoweiba/node-package-template.git",
+  "author": "maoweiba <maoweiba0@gmail.com>",
+  "license": "MIT"
+}
